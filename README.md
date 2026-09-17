@@ -11,7 +11,7 @@ The documented implementation is **Version 2 (v2)**, with a five-state leak-dete
 ## Project Visuals
 
 ### Hall-Effect Sensing Principle
-![Hall Effect Sensor Setup](docs/hall_effect_sensor_setup.png)
+![Hall Effect Sensor Setup](docs/hall_effect_sensors_setup.png)
 
 Four magnets produce one pulse per magnet pass. The calibration is **4 pulses per revolution = 1 litre**, or **250 mL per pulse**.
 
