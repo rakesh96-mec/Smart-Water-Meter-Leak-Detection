@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# STM32CubeIDE / Eclipse
+.settings/
+.metadata/
+RemoteSystemsTempFiles/
+*.launch
+
+# Build output
+Debug/
+Release/
+build/
+
+# Generated binaries
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# OS files
+.DS_Store
+Thumbs.db
